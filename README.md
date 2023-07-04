@@ -5,7 +5,7 @@
 My favorite so far has been the fun exercise of overlapping shapes! </h4>
 <p> 1. <a href="https://github.com/videsc/Eyes.git"> Eyes Exercise </a> 
     2. <a href="https://github.com/videsc/PacMen.git"> PacMen Exercise </a>
-    3.
+    3. <a href="https://github.com/videsc/Bus-Tracker.git> Bus Tracker </a>
 </p>
 <h2> Contact: </h2>
 <h4> If needed to reach me, the best way is through email: videscat.0922@gmail.com </h4>
